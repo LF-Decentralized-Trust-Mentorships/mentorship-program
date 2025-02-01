@@ -43,4 +43,4 @@ jobs:
           [ "$VERSION" == "main" ] && ALIAS=latest
           echo $VERSION $ALIAS
           mike deploy --push --update-aliases $VERSION $ALIAS
-          mike set-default latest
+          mike set-default --push latest
