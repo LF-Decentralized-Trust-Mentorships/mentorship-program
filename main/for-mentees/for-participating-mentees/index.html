@@ -9,6 +9,10 @@
       
       
       
+        <link rel="prev" href="../for-mentee-applicants/">
+      
+      
+        <link rel="next" href="../for-graduated-mentees/">
       
       
       <link rel="icon" href="../../assets/project-icon.png">
@@ -16,7 +20,7 @@
     
     
       
-        <title>Requesting a Change - LF Decentralized Trust Mentorships</title>
+        <title>For Participating Mentees - LF Decentralized Trust Mentorships</title>
       
     
     
@@ -78,7 +82,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#requesting-a-change" class="md-skip">
+        <a href="#for-participating-menteesmd" class="md-skip">
           Skip to content
         </a>
       
@@ -129,7 +133,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              Requesting a Change
+              For Participating Mentees
             
           </span>
         </div>
@@ -263,11 +267,13 @@
         
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
-        <a href="../../mentorship/for-mentee-applicants/" class="md-tabs__link">
+      <li class="md-tabs__item md-tabs__item--active">
+        <a href="../for-mentee-applicants/" class="md-tabs__link">
           
   
   For Mentees
@@ -285,7 +291,7 @@
     
     
       <li class="md-tabs__item">
-        <a href="../../mentorship/project-proposal-guidelines/" class="md-tabs__link">
+        <a href="../../for-mentors/project-proposal-guidelines/" class="md-tabs__link">
           
   
   For Mentors
@@ -443,25 +449,28 @@
       
   
   
+    
   
   
+  
     
     
     
-      
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
       
         
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
         
           
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
-        
-          
-          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="">
             
   
   <span class="md-ellipsis">
@@ -473,7 +482,7 @@
             <span class="md-nav__icon md-icon"></span>
           </label>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_3">
             <span class="md-nav__icon md-icon"></span>
             For Mentees
@@ -487,7 +496,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../mentorship/for-mentee-applicants/" class="md-nav__link">
+      <a href="../for-mentee-applicants/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -506,10 +515,19 @@
                 
   
   
+    
   
   
-    <li class="md-nav__item">
-      <a href="../../mentorship/for-participating-mentees/" class="md-nav__link">
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
         
   
   <span class="md-ellipsis">
@@ -519,6 +537,7 @@
   
 
       </a>
+      
     </li>
   
 
@@ -531,7 +550,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../mentorship/for-graduated-mentees/" class="md-nav__link">
+      <a href="../for-graduated-mentees/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -601,7 +620,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../mentorship/project-proposal-guidelines/" class="md-nav__link">
+      <a href="../../for-mentors/project-proposal-guidelines/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -623,7 +642,7 @@
   
   
     <li class="md-nav__item">
-      <a href="../../mentorship/mentoring-resources/" class="md-nav__link">
+      <a href="../../for-mentors/mentoring-resources/" class="md-nav__link">
         
   
   <span class="md-ellipsis">
@@ -664,131 +683,8 @@
   
 
 
-<h1 id="requesting-a-change">Requesting a Change<a class="headerlink" href="#requesting-a-change" title="Permanent link">&para;</a></h1>
-<p>Hyperledger <em>PROJECT</em> is a powerful tool which serves a wide range of use cases.
-Put yourself in our shoes – with a project of this size, it can be challenging
-to maintain existing functionality while constantly adding new features at the
-same time. We highly value every idea or contribution from our community, and
-we kindly ask you to take the time to read the following guidelines before 
-submitting your change request in our public <a href="https://github.com/hyperledger/_PROJECT_/issues">issue tracker</a>. This will help us 
-better understand the proposed change, and how it will benefit the community.</p>
-<p>This guide is our best effort to explain the criteria and reasoning behind our
-decisions when evaluating change requests and considering them for
-implementation. </p>
-<h2 id="before-creating-an-issue">Before creating an issue<a class="headerlink" href="#before-creating-an-issue" title="Permanent link">&para;</a></h2>
-<p>Before you invest your time to fill out and submit a change request, we kindly
-ask you to do some preliminary work by answering some questions to determine if
-your idea is a good fit and matches the project's philosophy and tone.</p>
-<p><strong>Please find answers to the following questions before creating an issue.</strong></p>
-<h3 id="its-not-a-bug-its-a-feature">It's not a bug, it's a feature<a class="headerlink" href="#its-not-a-bug-its-a-feature" title="Permanent link">&para;</a></h3>
-<p>Change requests are intended for suggesting minor adjustments, ideas for new
-features, or to influence the project's direction and vision. It is important
-to note that change requests are not intended for reporting bugs, as they're
-missing essential information for debugging.</p>
-<p>If you want to report a bug, please refer to our <a href="../reporting-a-bug/">bug reporting guide</a> instead.</p>
-<h3 id="source-of-inspiration">Source of inspiration<a class="headerlink" href="#source-of-inspiration" title="Permanent link">&para;</a></h3>
-<p>If you have seen your idea implemented in similar project, make sure to collect enough information on its implementation before submitting, as this allows us to evaluate potential fit more quickly. Explain what you like and dislike about the implementation.</p>
-<h3 id="benefit-for-the-community">Benefit for the community<a class="headerlink" href="#benefit-for-the-community" title="Permanent link">&para;</a></h3>
-<p>Our <a href="https://discord.gg/hyperledger">Discord server</a> is the best place to connect with our community. When 
-evaluating new ideas, it's essential to seek input from other users and consider 
-alternative viewpoints. This approach helps to implement new features in a way
-that benefits a large number of users.</p>
-<h2 id="issue-template">Issue template<a class="headerlink" href="#issue-template" title="Permanent link">&para;</a></h2>
-<p>Now that you have taken the time to do the necessary preliminary work and ensure 
-that your idea meets our requirements, you are invited to create a change
-request. The following guide will walk you through all necessary steps to help
-you submit a comprehensive and useful issue:</p>
-<ul>
-<li><a href="#title">Title</a></li>
-<li><a href="#context">Context</a> <small>optional</small></li>
-<li><a href="#description">Description</a></li>
-<li><a href="#related-links">Related links</a></li>
-<li><a href="#use-cases">Use cases</a></li>
-<li><a href="#visuals">Visuals</a> <small>optional</small></li>
-<li><a href="#checklist">Checklist</a></li>
-</ul>
-<h3 id="title">Title<a class="headerlink" href="#title" title="Permanent link">&para;</a></h3>
-<p>A good title is short and descriptive. It should be a one-sentence executive
-summary of the idea, so the potential impact and benefit for the community can 
-be inferred from the title.</p>
-<h3 id="context">Context <small>optional</small><a class="headerlink" href="#context" title="Permanent link">&para;</a></h3>
-<p>Before describing your idea, you can provide additional context for us to
-understand what you are trying to achieve. Explain the circumstances
-in which you're using Hyperledger <em>PROJECT</em>, and what you <em>think</em> might be
-relevant. Don't write about the change request here.</p>
-<div class="admonition success">
-<p class="admonition-title">Why we need this</p>
-<p>Some ideas might only benefit specific settings, environments or edge cases. With a little context, change requests can be prioritized more accurately.</p>
-</div>
-<h3 id="description">Description<a class="headerlink" href="#description" title="Permanent link">&para;</a></h3>
-<p>Next, provide a detailed and clear description of your idea. Explain why your 
-idea is relevant to Hyperledger <em>PROJECT</em> and must be implemented here, and not
-in one of its dependencies.</p>
-<ul>
-<li>
-<p><strong>Explain the <u>what</u>, not the <u>why</u></strong> – don't explain
-    <a href="#use-cases">the benefits of your idea</a> here, we're getting there.
-    Focus on describing the proposed change request as precisely as possible.</p>
-</li>
-<li>
-<p><strong>Keep it short and concise</strong> – be brief and to the point when describing 
-    your idea, there is no need to over-describe it. Maintainers and future
-    users will be grateful for having to read less.</p>
-</li>
-<li>
-<p><strong>One idea at a time</strong> – if you have multiple ideas that don't belong 
-together, please open separate change requests for each of those ideas.</p>
-</li>
-<li>
-<p><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M16.5 5.5a2 2 0 0 0 2-2 2 2 0 0 0-2-2 2 2 0 0 0-2 2 2 2 0 0 0 2 2m-3.6 13.9 1-4.4 2.1 2v6h2v-7.5l-2.1-2 .6-3A7.3 7.3 0 0 0 22 13v-2c-1.76.03-3.4-.89-4.3-2.4l-1-1.6c-.36-.6-1-1-1.7-1-.3 0-.5.1-.8.1L9 8.3V13h2V9.6l1.8-.7-1.6 8.1-4.9-1-.4 2zM4 9a1 1 0 0 1-1-1 1 1 0 0 1 1-1h3v2zm1-4a1 1 0 0 1-1-1 1 1 0 0 1 1-1h5v2zm-2 8a1 1 0 0 1-1-1 1 1 0 0 1 1-1h4v2z"/></svg></span> <strong>Stretch goal</strong> – if you have a customization or another way to add the proposed change, you can help other users by sharing it here before we maintainers can add it to our code base.</p>
-</li>
-</ul>
-<div class="admonition success">
-<p class="admonition-title">Why we need this</p>
-<p>To understand and evaluate your proposed change, we need to have a clear understanding of your idea. By providing a detailed and precise description, you can help save you and us time spent discussing further clarification of your idea in the comments.</p>
-</div>
-<h3 id="related-links">Related links<a class="headerlink" href="#related-links" title="Permanent link">&para;</a></h3>
-<p>Please provide any relevant links to issues, discussions, or documentation 
-sections related to your change request. If you (or someone else) already
-discussed this idea with the community on our discussion board, please include 
-the link to the discussion as well.</p>
-<div class="admonition success">
-<p class="admonition-title">Why we need this</p>
-<p>Related links help us gain a comprehensive understanding of your change request by providing additional context. Additionally, linking to previous issues and discussions allows us to quickly evaluate the feedback and input already provided by the community.</p>
-</div>
-<h3 id="use-cases">Use cases<a class="headerlink" href="#use-cases" title="Permanent link">&para;</a></h3>
-<p>Explain how your change request would work from a user's
-perspective – what's the expected impact and why does it not only benefit you,
-but other users? How many of them? Furthermore, would it potentially break
-existing functionality?</p>
-<div class="admonition success">
-<p class="admonition-title">Why we need this</p>
-<p>Understanding the use cases and benefits of an idea is crucial in evaluating its potential impact and usefulness for the project and its users. This information helps us to understand the expected value of the idea and how it aligns with the goals of the project.</p>
-</div>
-<h3 id="visuals">Visuals <small>optional</small><a class="headerlink" href="#visuals" title="Permanent link">&para;</a></h3>
-<p>We now have a clear and detailed description of your idea, including information 
-on its potential use cases and relevant links for context. If you have any 
-visuals, such as sketches, screenshots, mockups, or external assets, you may 
-present them in this section.</p>
-<div class="admonition tip">
-<p class="admonition-title">Tip</p>
-<p>You can drag and drop the files here or include links to external assets.</p>
-</div>
-<p>Additionally, if you have seen this change, feature, or improvement used 
-elsewhere, please provide an example by showcasing 
-it and describing how it was implemented and incorporated.</p>
-<div class="admonition success">
-<p class="admonition-title">Why we need this</p>
-<p>Illustrations and visuals can help us maintainers better understand and envision your idea. Screenshots, sketches, or mockups can create an additional level of detail and clarity that text alone may not be able to convey. Also, seeing how your idea has been implemented in other projects can help us understand its potential impact and feasibility in Hyperledger <em>PROJECT</em>, which helps us maintainers evaluate and triage change requests.</p>
-</div>
-<h3 id="checklist">Checklist<a class="headerlink" href="#checklist" title="Permanent link">&para;</a></h3>
-<p>Thanks for following the change request guide and creating a high-quality 
-change request. This section ensures that you have read this guide and have
-worked to your best knowledge to provide us with every piece of information to 
-review your idea for Hyperledger <em>PROJECT</em>.</p>
-<p><strong>We'll take it from here.</strong></p>
-<h2 id="credits">Credits<a class="headerlink" href="#credits" title="Permanent link">&para;</a></h2>
-<p>This document is based on <a href="https://github.com/squidfunk/mkdocs-material/blob/master/docs/contributing/requesting-a-change.md">Material for MkDocs Requesting a Change</a>.</p>
+<h1 id="for-participating-menteesmd">for-participating-mentees.md<a class="headerlink" href="#for-participating-menteesmd" title="Permanent link">&para;</a></h1>
+<p>for-participating-mentees.md</p>
 
 
 
@@ -821,6 +717,44 @@ review your idea for Hyperledger <em>PROJECT</em>.</p>
       
         <footer class="md-footer">
   
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Footer" >
+        
+          
+          <a href="../for-mentee-applicants/" class="md-footer__link md-footer__link--prev" aria-label="Previous: For Mentee Applicants">
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              <div class="md-ellipsis">
+                For Mentee Applicants
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../for-graduated-mentees/" class="md-footer__link md-footer__link--next" aria-label="Next: For Graduated Mentees">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              <div class="md-ellipsis">
+                For Graduated Mentees
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
     
   
   <div class="md-footer-meta md-typeset">
