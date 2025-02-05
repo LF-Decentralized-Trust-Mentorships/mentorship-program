@@ -2,7 +2,7 @@ name: "Mentorship Project"
 description: Propose a Mentorship Project
 title: "2025: Provide a short but descriptive title of what the mentorship project is."
 
-labels: [2025-project]
+labels: [2025-LF-Decentralized-Trust]
 body:
   - type: markdown
     attributes:
@@ -11,7 +11,6 @@ body:
         Prior to opening the issue, please make sure that you:
         - Use English (EN/US) to communicate.
         - Search the [open issues](https://github.com/hyperledger-labs/documentation-template/issues) to avoid duplicating the issue.
-
 
   - type: dropdown
     id: primary-focus
@@ -89,4 +88,3 @@ body:
         Provide links to wiki entries, GitHub repos, release-plan notes, and/or other web-references that would be helpful information for others to obtain additional pertinent information about the project.
     validations:
       required: true
-
