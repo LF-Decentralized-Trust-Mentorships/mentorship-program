@@ -1,0 +1,46 @@
+global:
+  organizations:
+    - organization:
+        name: "LF Decentralized Trust"
+        github: "LF-Decentralized-Trust-Mentorships"
+  scrape-duration-days: 90
+  external-template:
+    enabled: true
+    template-for: "repository"
+
+# Project proposals are listed as issues
+issues:
+  issue-tags: # TODO: add appropriate tags
+    - "good first issue"
+    - "help wanted"
+  created-history-days: 0 # keep this to 0
+  summary-filename: "/assets/html/generated/issue-summary.html"
+  should-run: true
+  data-file: "/assets/generated-data/issue-data.json"
+  external-template:
+    input: "/templates/issue-template.md"
+    output: "/issues"
+    summary: "/templates/recent-issues.md"
+    sum-generated: "/trending/recent-issues.md"
+
+# Do not run config for Pull Requests
+pull-requests:
+  summary-filename: "html/generated/pr-summary.html"
+  should-run: false
+  data-file: "generated-data/pr-data.json"
+  external-template:
+    input: ""
+    output: ""
+    summary: ""
+    sum-generated: ""
+
+# Do not run config for Releases
+releases:
+  summary-filename: "html/generated/release-summary.html"
+  should-run: false
+  data-file: "generated-data/release-data.json"
+  external-template:
+    input: ""
+    output: ""
+    summary: ""
+    sum-generated: ""
