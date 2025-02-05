@@ -1,0 +1,34 @@
+name: List projects for 2025
+
+on:
+  schedule:
+    - cron: '0 1,7,13,19 * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone the repository
+        uses: "actions/checkout@v4"
+        with:
+          submodules: recursive
+      - name: Generate the latest project proposals
+        run: |
+          # Run the docker-compose command
+          docker-compose -f docker/docker-compose.yaml up --build list_proposals
+          exit ${?}
+        shell: bash
+        env:
+          GITHUB_TOKEN: "${{ secrets.PAT }}"
+      - name: Create Pull Request with new set of projects
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.PAT }}
+          branch-suffix: timestamp
+          title: Update Projects
+          labels: automerge
+          signoff: true
+          delete-branch: false
+          commit-message: Update Projects

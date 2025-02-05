@@ -14,14 +14,14 @@ issues:
     - "good first issue"
     - "help wanted"
   created-history-days: 0 # keep this to 0
-  summary-filename: "/assets/html/generated/issue-summary.html"
-  should-run: true
-  data-file: "/assets/generated-data/issue-data.json"
+  summary-filename: "/assets/html/generated/issue-summary.html" # unused, but keep it
+  should-run: true # must be set to true
+  data-file: "/assets/generated-data/issue-data.json" # unused, unused but keep it
   external-template:
-    input: "/templates/issue-template.md"
-    output: "/issues"
-    summary: "/templates/recent-issues.md"
-    sum-generated: "/trending/recent-issues.md"
+    input: "/templates/project-proposals-2025.md" # unused, but keep it
+    output: "/issues" # unused, but keep it
+    summary: "/templates/project-proposals-2025.md"
+    sum-generated: "/docs/projects/2025.md"
 
 # Do not run config for Pull Requests
 pull-requests:

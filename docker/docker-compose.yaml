@@ -18,7 +18,6 @@ services:
             - ../actions:/actions
             - ../templates:/templates
             - ../issues:/issues
-            - ../trending:/trending
             - ../hyperledger-updates/assets:/assets
         networks:
             - action_network
