@@ -17,7 +17,7 @@ issues:
   should-run: true # must be set to true
   data-file: "/app/assets/generated-data/issue-data.json" # unused, unused but keep it
   external-template:
-    input: "/templates/project-proposals-2025.md" # unused, but keep it
+    input: "/templates/project-proposals-2025-detailed.md" # unused, but keep it
     output: "/app/assets/generated-data" # unused, but keep it
     summary: "/templates/project-proposals-2025.md"
     sum-generated: "/docs/projects/2025.md"
