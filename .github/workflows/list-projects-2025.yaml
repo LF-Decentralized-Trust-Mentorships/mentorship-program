@@ -21,11 +21,11 @@ jobs:
           exit ${?}
         shell: bash
         env:
-          GITHUB_TOKEN: "${{ secrets.PAT }}"
+          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
       - name: Create Pull Request with new set of projects
         uses: peter-evans/create-pull-request@v5
         with:
-          token: ${{ secrets.PAT }}
+          token: "${{ secrets.GITHUB_TOKEN }}"
           branch-suffix: timestamp
           title: Update Projects
           labels: automerge
