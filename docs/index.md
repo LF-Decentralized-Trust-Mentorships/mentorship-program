@@ -33,7 +33,7 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
  
 *   Get additional help to address needs and gaps in feature or code development, research, or documentation
 
-*   Nuture the health and sustainability of your project and community by training and and bringing in new talent
+*   Nurture the health and sustainability of your project and community by training and and bringing in new talent
     
 # 2025 Program Dates 
 
