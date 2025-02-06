@@ -1,4 +1,5 @@
 # 2025
 
 - [mentoring-resources.md](mentoring-resources.md)
-- [project-proposal-guidelines.md](project-proposal-guidelines.md)
+- [Proposal Submission Guidelines](project-proposal-guidelines.md)
+- [Successful Mentorship](successful-mentorship.md)
