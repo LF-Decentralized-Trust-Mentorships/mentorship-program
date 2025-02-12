@@ -2,7 +2,7 @@ name: "Mentorship Project"
 description: Propose a Mentorship Project
 title: "2025: Provide a short but descriptive title of what the mentorship project is."
 
-labels: [2025-LF-Decentralized-Trust]
+labels: [2025-LF-Decentralized-Trust, "TAC Review"]
 body:
   - type: markdown
     attributes:
