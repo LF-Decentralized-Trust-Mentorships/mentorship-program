@@ -1,29 +1,9 @@
 # 2025 Mentorship Projects
 
 {{range .Issues}}
-<div>
-    <table>
-        <tr>
-            <td>
-                Issue <a href="{{.HTMLURL}}" class=".btn">{{.Number}}</a>
-            </td>
-            <td>
-                <b>
-                    {{.Title}}
-                </b>
-            </td>
-        </tr>
-        <tr>
-            <td>
-                {{range .Labels}}<span class="chip">{{.Name}}</span>{{end}}
-            </td>
-            <td>
-                {{.Body}}
-            </td>
-        </tr>
-    </table>
-    <div class="right-align">
+       Issue <a href="{{.HTMLURL}}" class=".btn">{{.Number}}</a>
+       {{.Title}}
+       {{range .Labels}}<span class="chip">{{.Name}}</span>{{end}}
+       {{.Body}}
         Created At {{.CreatedAt}}
-    </div>
-</div>
 {{end}}
