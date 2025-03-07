@@ -72,11 +72,11 @@ LFX Mentorship, developed by The Linux Foundation, is the portal where the LF De
 *   When ready, click "Apply" (remember you can apply up to 3 mentorship projects)
     
 *   Complete the application prerequisites including the latest resume and cover letter. Some mentors may require that you supply additional information about your open source contribution experience or work samples. Incomplete application may be excluded from the being considered.
-    
-*   Please complete all required application materials by May 10th, 2025.
-    
-Please review [detailed application instructions](https://docs.linuxfoundation.org/lfx/mentorship/mentees/apply-to-a-project) for additional information about how to apply on LFX Mentorship.
 
+*   Please review [detailed application instructions](https://docs.linuxfoundation.org/lfx/mentorship/mentees/apply-to-a-project) for additional information about how to apply on LFX Mentorship.
+    
+_**All required application materials must be received by May 10th, 2025.**_
+    
 Questions? 
 ===========
 
