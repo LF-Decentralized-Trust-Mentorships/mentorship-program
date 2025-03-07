@@ -1,11 +1,11 @@
 # Mentee Applicant Eligibility 
 
---DRAFT--
-
-*   You must be at least 18 years of age by end of May.
+*   You must be at least 18 years of age at the start of the mentorship program.
     
-*   The mentorship will be remote. However, you must be eligible to work in the country and jurisdiction where you reside in for the entire duration of the program.
-*   Please review any [additional eligibility requirements](https://docs.linuxfoundation.org/lfx/mentorship/mentee-guide/am-i-eligible) that may apply.
+*   The mentorship will be remote. However, you must be eligible to work in the country and jurisdiction where you reside in for the duration of the program. 
+*   
+*   You have not participated in another Linux Foundation hosted mentorship program (such as CNCF or Risc-V) before.
+*   
+*   Both students and those who are looking for open source contribution experience as part of their professional are welcome to participate.
 
-Hyperledger mentorship is ***no longer*** limited to those currently enrolled in colleges and universities. However, you're expected to contribute on a consistent basis ~ 20 hours a week from June to November so please plan accordingly.
-We're working on the content; please check back for updates later.
+*   Please review any [additional eligibility requirements](https://docs.linuxfoundation.org/lfx/mentorship/mentee-guide/am-i-eligible) that may apply.
