@@ -22,7 +22,7 @@ Carefully review the [mentorship projects that are in "Accepting Mentee Applica
     
 *   Lastly, we expect mentees to be able to contribute ~15 hours a week on a consistent basis from June to November. Please make sure the [program dates](https://lf-decentralized-trust-mentorships.github.io/mentorship-program/main/#2025-program-dates*) will fit into your schedule taking into consideration your other academic, professional, or personal commitments.
     
-_Note:Each applicant may apply for multiple but no more than **THREE** projects. We recommend that you focus your effort on 2 projects and submit a quality application for those two projects._   
+_Note: Each applicant may apply for multiple but no more than **THREE** projects. We recommend that you focus your effort on 2 projects and submit a quality application for those two projects._   
     
 Step 3: ask questions (optional)
 --------------------------------
@@ -31,11 +31,9 @@ We encourage you to contact the LF Decentralized Trust staff, the mentors and co
 
 *   If your questions are about the program in general or the application process please contact [mentorship@lfdecentralizedtrust.org](mailto:mentorship@lfdecentralizedtrust.org)
     
-*   If you would like to clarify any technical aspects, please join our [Discord](https://discord.com/invite/hyperledger) and ask your questions on the corresponding project or community's public channels.
+*   If you would like to clarify any technical aspects, please join our [Discord](https://discord.com/invite/hyperledger) and ask your questions on the corresponding project or community's public channels. Public discussions benefit all who may be interested in the project and it helps efficiently address the same or similar questions many others may have. This is the open source way that we encourage applicants to adhere to. 
     
-*   Please be thoughtful with your questions and be respectful of the time it may take for the maintainers to respond to your questions. 
-    
-*   Public discussions benefit all who may be interested in the project and it helps efficiently address the same or similar questions many others may have. This is the open source way that we encourage applicants to adhere to.  
+*   Please be thoughtful with how you ask your questions and be respectful of the time it may take for the maintainers to respond to your questions. 
     
 Step 4: prepare application materials
 -------------------------------------
@@ -69,7 +67,7 @@ LFX Mentorship, developed by The Linux Foundation, is the portal where the LF De
     
 *   When ready, click "Apply" (remember you can apply up to 3 mentorship projects)
     
-*   Complete the application prerequisites including your latest resume and cover letter. Some mentors may require that you supply additional information about your open source contribution experience or work samples. Incomplete application may be excluded from the being considered.
+*   Complete the application prerequisites including your latest resume and cover letter. Some mentors may require that you supply additional information about your open source contribution experience or work samples. Incomplete application may be excluded from being considered.
 
 *   Please review [detailed application instructions](https://docs.linuxfoundation.org/lfx/mentorship/mentees/apply-to-a-project) for additional information about how to apply on LFX Mentorship.
     
