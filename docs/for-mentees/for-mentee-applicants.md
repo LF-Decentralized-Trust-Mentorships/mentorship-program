@@ -40,7 +40,7 @@ We encourage you to contact the LF Decentralized Trust staff, the mentors and co
 Step 4: prepare application materials
 -------------------------------------
 
-Besides collecting standard demographic and contact information on the application, we will ask you to upload your **resume and a** **cover letter.**The cover letter will ask you to address the following questions:
+Besides collecting standard demographic and contact information on the application, you will be asked to subit a resume and cover letter. The cover letter will ask you to address the following questions to not only demonstrate your qualifications but also your passion about becoming an active open source contributor. 
 
 *   How did you find out about our program?
     
@@ -50,9 +50,7 @@ Besides collecting standard demographic and contact information on the applicati
     
 *   What do you hope to get out of this experience?
     
-*   Some projects may have additional requirements that ask your to demonstrate open source contribution experience. Please review carefully the requirements for the projects you're interested in applying to and prepare the materials accordingly.
-    
-Remember, your cover letter should not only demonstrate your qualifications but also your passion about becoming an active open source contributor. 
+*   Some projects may ask you to supply additional information about your open source contribution experience or work samples. Please review any customized requirements and prepare the materials accordingly.
 
 Step 5: apply on LFX Mentorship Platform
 ----------------------------------------
@@ -71,7 +69,7 @@ LFX Mentorship, developed by The Linux Foundation, is the portal where the LF De
     
 *   When ready, click "Apply" (remember you can apply up to 3 mentorship projects)
     
-*   Complete the application prerequisites including the latest resume and cover letter. Some mentors may require that you supply additional information about your open source contribution experience or work samples. Incomplete application may be excluded from the being considered.
+*   Complete the application prerequisites including your latest resume and cover letter. Some mentors may require that you supply additional information about your open source contribution experience or work samples. Incomplete application may be excluded from the being considered.
 
 *   Please review [detailed application instructions](https://docs.linuxfoundation.org/lfx/mentorship/mentees/apply-to-a-project) for additional information about how to apply on LFX Mentorship.
     
