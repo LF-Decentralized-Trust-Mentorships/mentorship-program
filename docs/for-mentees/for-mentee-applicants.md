@@ -20,7 +20,7 @@ Carefully review the [mentorship projects that are in "Accepting Mentee Applica
     
 *   Ask yourself which projects are a better fit for your profile and align with your strength. Be sure to read about the educational level and skills required or desired to evaluate if you are qualified.
     
-*   Lastly, we expect mentees to be able to contribute ~15 hours a week on a consistent basis from June to November. Please make sure the [program dates](https://lf-decentralized-trust-mentorships.github.io/mentorship-program/main/#2025-program-dates*) will fit into your schedule taking into consideration your other academic, professional, or personal commitments.
+*   Lastly, we expect mentees to be able to contribute ~15 hours a week on a consistent basis from June to November. Please make sure the [program dates](https://lf-decentralized-trust-mentorships.github.io/mentorship-program/main/#2025-program-dates) will fit into your schedule taking into consideration your other academic, professional, or personal commitments.
     
 _Note: Each applicant may apply for multiple but no more than **THREE** projects. We recommend that you focus your effort on 2 projects and submit a quality application for those two projects._   
     
