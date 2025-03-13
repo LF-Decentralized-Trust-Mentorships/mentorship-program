@@ -1,8 +1,10 @@
-# Proposal Submission Template
+Proposal Submission Template
+--------------------------
 
 Please use this [template to submit your mentorship project proposal](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program/issues/new?template=mentorship-project.yml).
 
-# Proposal Submission Guidelines
+Proposal Submission Guidelines
+--------------------------
 
 *   Project maintainers, active contributors and community members are welcome to submit a mentorship project proposal for consideration. Those who submit the project proposals will serve in the mentor role.
 *   Multiple mentors per project is more desirable as this helps spread the mentoring workload and reduce the challenge of coverage due to working remotely with mentees from a different time zone.
@@ -12,7 +14,8 @@ Please use this [template to submit your mentorship project proposal](https://gi
 *   The project should be related to one of the current LF Decentralized Trust Projects or Labs or the community or ecosystem at large.
 *   The outcome of the project will benefit the existing LF Decentralized Projects or Labs or advance the open source community's work at large.
 
-# Proposal Selection Process and Criteria
+Proposal Selection Process and Criteria
+--------------------------
 
 *   A mentorship program task force appointed by the LF Decentralized Trust Technical Advisory Council will review, evluate, and select proposals to ensure the selected mentorship projects will benefit the LF Decentralized Trust projects, labs, or community.
 *   General selection criteria are:
