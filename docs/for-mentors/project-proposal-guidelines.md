@@ -1,7 +1,7 @@
 Proposal Submission Template
 --------------------------
 
-Please use this [template to submit your mentorship project proposal](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program/issues/new?template=mentorship-project.yml).
+Mentorship project proposal submission to be considered for inclusion in 2025 Mentorship Program has closed.
 
 Proposal Submission Guidelines
 --------------------------
