@@ -37,7 +37,7 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
     
 # 2025 Program Dates 
 
-*   05 Feb 2025 - 15 Mar 2025 community members [submitting mentorship project proposals](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program/issues/new?template=mentorship-project.yml) (please review [proposal submission guidelines](https://lf-decentralized-trust-mentorships.github.io/mentorship-program/main/for-mentors/project-proposal-guidelines))
+*   05 Feb 2025 - 15 Mar 2025 community members submitting mentorship project proposals
     
 *   17 Mar 2025 - 30 Mar 2025 mentorship project proposal review by [Technical Advisory Council](https://lf-decentralized-trust.github.io/governance/member-info/tac-members.html) (mentors or proposal submitters may be asked to clarify or address questions raised by the TAC)
     
