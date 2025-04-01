@@ -41,7 +41,7 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
     
 *   17 Mar 2025 - 30 Mar 2025 mentorship project proposal review by [Technical Advisory Council](https://lf-decentralized-trust.github.io/governance/member-info/tac-members.html) (mentors or proposal submitters may be asked to clarify or address questions raised by the TAC)
     
-*   01 Apr 2025 - 10 May 2025 mentee application period on [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/)
+*   03 Apr 2025 - 11 May 2025 mentee application period on [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/)
 *   12 May 2025 - 23 May 2025 mentee application review and applicant interview
     
 *   26 May 2025 - 30 May 2025 selected mentee notification
