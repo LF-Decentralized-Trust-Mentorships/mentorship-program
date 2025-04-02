@@ -55,7 +55,7 @@ _Note: The program dates are subject to change._
 
 # Funding
 
-Mentees may be eligible to receive funding for training or other materials needed for the mentorship project. Graduated mentees may be eligible to receive travel funding to attend in-person events to speak and to network in order to further collaboration with others in the open source community. The total amount of the funds may vary and the awarding of these funds are subject to a combination of needs and impact. 
+Graduated mentees are eligible to receive grant funding to travel to in-person events for speaking, attending, and networking as a way to foster further collaboration within the open-source community. The total grant amount may vary, and grants are awarded based on a combination of need and impact. 
 
 # Questions?
 
