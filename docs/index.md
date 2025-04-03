@@ -55,7 +55,7 @@ _Note: The program dates are subject to change._
 
 # Funding
 
-Graduated mentees are eligible to receive grant funding to travel to in-person events for speaking, attending, and networking as a way to foster further collaboration within the open-source community. The total grant amount may vary, and grants are awarded based on a combination of need and impact. 
+Mentees who successfully complete the mentorships will be provided a grant for use towards furthering their integration into the LF Decentralized Trust open source community. This usually takes the form of attending in-person events to present about their projects or to meet and network with their mentors and other professionals in the LF Decentralized Trust or the broader open source community to expand their professional network and raise visiblity. The total grant amount may vary, and grants are awarded based on a combination of need and impact. 
 
 # Questions?
 
