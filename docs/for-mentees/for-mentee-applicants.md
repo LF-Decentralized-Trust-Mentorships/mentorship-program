@@ -48,7 +48,7 @@ Besides collecting standard demographic and contact information on the applicati
     
 *   What do you hope to get out of this experience?
     
-*   Some projects may ask you to supply additional information about your open source contribution experience or work samples. Please review any customized requirements and prepare the materials accordingly.
+*   Some projects may ask you to supply additional information about your open source contribution experience or work samples or complete a code challenge. Please review any customized requirements and prepare the materials accordingly.
 
 Step 5: apply on LFX Mentorship Platform
 ----------------------------------------
