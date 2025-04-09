@@ -14,7 +14,7 @@ Step 1: review eligibility
 Step 2: discover projects
 -------------------------
 
-Take a look at the [mentorship projects that are accepting mentee applications on LFX in 2025](https://lf-decentralized-trust-mentorships.github.io/mentorship-program/latest/projects/2025/), carefully review additional details of the corresponding mentorship projects on GitHub, and try to identify which project(s) you're interested in.
+*   Take a look at the list of [mentorship projects that are accepting mentee applications on LFX in 2025](https://lf-decentralized-trust-mentorships.github.io/mentorship-program/latest/projects/2025/), carefully review additional details of the corresponding mentorship projects on GitHub, so as to identify which project(s) you're interested in.
 
 *   Ask yourself which projects you are the most excited or curious about exploring? The project descriptions, learning objectives and outcomes, and any additional information or links on the project page may give you some insight. 
     
