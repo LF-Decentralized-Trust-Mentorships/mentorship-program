@@ -46,8 +46,8 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
     
 *   23 May 2025 - 30 May 2025 selected mentee notification
     
-*   02 June 2025 - 13 Jun 2025 1st two weeks of June onboarding/orientation sessions
-*   16 Jun 2025 - 28 Nov 2025 mentee/mentor working period (mentees are expected to commit ~15 hours a week on a consistent basis during this time) 
+*   02 June 2025 - 17 Jun 2025 1st 2.5 weeks of June onboarding/orientation 
+*   17 Jun 2025 - 28 Nov 2025 mentee/mentor working period (mentees are expected to commit ~10-15 hours a week on a consistent basis during this time) 
 *   25 Aug 2025 - 05 Sep 2025 midterm mentee evaluation and report
 *   17 Nov 2025 - 28 Nov 2025  final mentee evaluation and report
 
