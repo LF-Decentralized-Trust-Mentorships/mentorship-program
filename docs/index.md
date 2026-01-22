@@ -3,7 +3,7 @@
 *   [Program Description](#program-description)
 *   [Benefits for Mentees](#benefits-for-mentees)
 *   [Benefits for Mentors](#benefits-for-Mentors)
-*   [2025 Program Dates](#2025-program-dates)
+*   [2026 Program Dates](#2026-program-dates)
 *   [Funding](#funding)
 *   [Questions?](#questions)
 
@@ -35,27 +35,29 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
 
 *   Nurture the health and sustainability of your project and community by training and and bringing in new talent
     
-# 2025 Program Dates 
+# 2026 Program Dates 
 
-*   05 Feb 2025 - 15 Mar 2025 community members submitting mentorship project proposals
+*   02 Feb 2065 - 6 Mar 2026 mentors submitting mentorship project proposals
     
-*   17 Mar 2025 - 30 Mar 2025 mentorship project proposal review by [Technical Advisory Council](https://lf-decentralized-trust.github.io/governance/member-info/tac-members.html) (mentors or proposal submitters may be asked to clarify or address questions raised by the TAC)
+*   9 Mar 2026 - 25 Mar 2026 mentorship project proposal review by [Technical Advisory Council](https://lf-decentralized-trust.github.io/governance/member-info/tac-members.html) (mentors or proposal submitters may be asked to clarify or address questions raised by the TAC)
     
-*   03 Apr 2025 - 11 May 2025 mentee application period on [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/)
-*   12 May 2025 - 22 May 2025 mentee application review and applicant interview
+*   27 Mar 2026 - 8 May 2026 mentee application period on [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/)
+*   11 May 2026 - 22 May 2026 mentee application review and applicant interview
     
-*   23 May 2025 - 30 May 2025 selected mentee notification
+*   25 May 2026 - 29 May 2026 selected mentee notification and acceptance
     
-*   02 June 2025 - 17 Jun 2025 1st 2.5 weeks of June onboarding/orientation 
-*   17 Jun 2025 - 28 Nov 2025 mentee/mentor working period (mentees are expected to commit ~10-15 hours a week on a consistent basis during this time) 
-*   25 Aug 2025 - 05 Sep 2025 midterm mentee evaluation and report
-*   17 Nov 2025 - 28 Nov 2025  final mentee evaluation and report
+*   01 June 2026 - 12 Jun 2026 1st 2 weeks of June mentee onboarding/orientation 
+*   15 Jun 2026 - 30 Nov 2026 mentee/mentor working period (mentees are expected to commit ~12-15 hours a week on a consistent basis during this time) 
+*   24 Aug 2026 - 31 Aug 2026 midterm mentee evaluation and report
+*   15 Nov 2026 - 30 Nov 2026  final mentee evaluation and report
 
 _Note: The program dates are subject to change._
 
-# Funding
+# Mentee Stipend
 
-Mentees who successfully complete the mentorships will be provided a grant for use towards furthering their integration into the LF Decentralized Trust open source community. This usually takes the form of attending in-person events to present about their projects or to meet and network with their mentors and other professionals in the LF Decentralized Trust or the broader open source community to expand their professional network and raise visiblity about their work and contributions. The total grant amount may vary, and grants are awarded based on a combination of need and impact. 
+Eligible mentees may receive a stipend, calculated using a [tiered structured](https://docs.linuxfoundation.org/lfx/mentorship/mentee-stipends) based on their country of residence during the program. The stipend will be paid in two installments:
+1. Midterm Stipend -  paid to mentees who are making satisfactory progreess and in good standing as evaluated by mentors during midterm evaluation
+2. Final Stipend - paid to mentees upon successful project completion as evaluated by mentors and confimred program staff.
 
 # Questions?
 
