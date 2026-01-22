@@ -1,7 +1,9 @@
 Proposal Submission Template
 --------------------------
 
-Mentorship project proposal submission to be considered for inclusion in 2025 Mentorship Program has closed.
+Mentorship project proposal submissions to be considered for inclusion in 2026 Mentorship Program is open from February 2 to March 6, 2026. 
+
+Mentors can [submit a mentorship project proposal](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program/issues) by creating a Mentorship Project new issue; please review the [proposal guidelines](https://lf-decentralized-trust-mentorships.github.io/mentorship-program/main/for-mentors/project-proposal-guidelines/#proposal-submission-guidelines) before submitting
 
 Proposal Submission Guidelines
 --------------------------
