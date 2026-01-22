@@ -37,19 +37,19 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
     
 # 2026 Program Dates 
 
-*   02 Feb 2065 - 6 Mar 2026: mentors (maintainers and active community members) [submitting mentorship project proposals](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program/issues)
+*   __02 Feb 2065 - 6 Mar 2026__ mentors (maintainers and active community members) [submitting mentorship project proposals](https://github.com/LF-Decentralized-Trust-Mentorships/mentorship-program/issues)
     
-*   9 Mar 2026 - 25 Mar 2026: mentorship project proposal review by [Technical Advisory Council](https://lf-decentralized-trust.github.io/governance/member-info/tac-members.html) (mentors or proposal submitters may be asked to clarify or address questions raised by the TAC)
+*   __9 Mar 2026 - 25 Mar 2026__ mentorship project proposal review by [Technical Advisory Council](https://lf-decentralized-trust.github.io/governance/member-info/tac-members.html) (mentors or proposal submitters may be asked to clarify or address questions raised by the TAC)
     
-*   27 Mar 2026 - 8 May 2026: mentee application period on [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/)
-*   11 May 2026 - 22 May 2026: mentee application review and applicant interview
+*   __27 Mar 2026 - 8 May 2026__ mentee application period on [LFX Mentorship](https://mentorship.lfx.linuxfoundation.org/)
+*   __11 May 2026 - 22 May 2026__ mentee application review and applicant interview
     
-*   25 May 2026 - 29 May 2026: selected mentee notification and acceptance
+*   __25 May 2026 - 29 May 2026__ selected mentee notification and acceptance
     
-*   01 June 2026 - 12 Jun 2026: 1st 2 weeks of June mentee onboarding/orientation 
-*   15 Jun 2026 - 30 Nov 2026: mentee/mentor working period (mentees are expected to commit ~12-15 hours a week on a consistent basis during this time) 
-*   24 Aug 2026 - 31 Aug 2026: midterm mentee evaluation and report
-*   15 Nov 2026 - 30 Nov 2026:  final mentee evaluation and report
+*   __01 June 2026 - 12 Jun 2026__ 1st 2 weeks of June mentee onboarding/orientation 
+*   __15 Jun 2026 - 30 Nov 2026__ mentee/mentor working period (mentees are expected to commit ~12-15 hours a week on a consistent basis during this time) 
+*   __24 Aug 2026 - 31 Aug 2026__ midterm mentee evaluation and report
+*   __15 Nov 2026 - 30 Nov 2026__  final mentee evaluation and report
 
 _Note: The program dates are subject to change._
 
