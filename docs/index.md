@@ -4,7 +4,7 @@
 *   [Benefits for Mentees](#benefits-for-mentees)
 *   [Benefits for Mentors](#benefits-for-Mentors)
 *   [2026 Program Dates](#2026-program-dates)
-*   [Funding](#funding)
+*   [Mentee Stipend](#mentee-stipend)
 *   [Questions?](#questions)
 
 # Program Description
@@ -56,8 +56,10 @@ _Note: The program dates are subject to change._
 # Mentee Stipend
 
 Eligible mentees may receive a stipend, calculated using a [tiered structured](https://docs.linuxfoundation.org/lfx/mentorship/mentee-stipends) based on their country of residence during the program. The stipend will be paid in two installments:
-1. Midterm Stipend -  paid to mentees who are making satisfactory progreess and in good standing as evaluated by mentors during midterm evaluation
-2. Final Stipend - paid to mentees upon successful project completion as evaluated by mentors and confimred program staff.
+
+* Midterm Stipend -  paid to mentees who are making satisfactory progreess and in good standing as evaluated by mentors during midterm evaluation
+
+* Final Stipend - paid to mentees upon successful project completion as evaluated by mentors and confimred program staff.
 
 # Questions?
 
