@@ -59,7 +59,7 @@ Eligible mentees may receive a stipend, calculated using a [tiered structured](h
 
 * Midterm Stipend -  paid to mentees who are making satisfactory progreess and in good standing as evaluated by mentors during midterm evaluation
 
-* Final Stipend - paid to mentees upon successful project completion as evaluated by mentors and confimred program staff.
+* Final Stipend - paid to mentees upon successful project completion as evaluated by mentors and confirmed by program staff.
 
 # Questions?
 
