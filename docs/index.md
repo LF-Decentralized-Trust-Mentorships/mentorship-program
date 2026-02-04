@@ -4,7 +4,7 @@
 *   [Benefits for Mentees](#benefits-for-mentees)
 *   [Benefits for Mentors](#benefits-for-Mentors)
 *   [2026 Program Dates](#2026-program-dates)
-*   [Mentee Stipend](#mentee-stipend)
+*   [Mentorship Funding](#mentee-stipend)
 *   [Questions?](#questions)
 
 # Program Description
@@ -53,13 +53,15 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
 
 _Note: The program dates are subject to change._
 
-# Mentee Stipend
+# 2026 Mentorship Funding
 
 Eligible mentees may receive a stipend, calculated using a [tiered structured](https://docs.linuxfoundation.org/lfx/mentorship/mentee-stipends) based on their country of residence during the program. The stipend will be paid in two installments:
 
 * Midterm Stipend -  paid to mentees who are making satisfactory progreess and in good standing as evaluated by mentors during midterm evaluation
 
 * Final Stipend - paid to mentees upon successful project completion as evaluated by mentors and confirmed by program staff.
+
+Additionally, a limited travel fund is set aside to 5 exceptional mentors and mentees who demonstrate the need for financial support to travel to an in-person event where they're presenting about their mentorship projects.  
 
 # Questions?
 
