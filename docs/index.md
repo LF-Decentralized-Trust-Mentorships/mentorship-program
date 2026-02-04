@@ -4,7 +4,7 @@
 *   [Benefits for Mentees](#benefits-for-mentees)
 *   [Benefits for Mentors](#benefits-for-Mentors)
 *   [2026 Program Dates](#2026-program-dates)
-*   [Mentorship Funding](#mentee-stipend)
+*   [2026 Mentorship Funding](#2026-mentorship-funding)
 *   [Questions?](#questions)
 
 # Program Description
