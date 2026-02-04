@@ -61,7 +61,7 @@ Eligible mentees may receive a stipend, calculated using a [tiered structured](h
 
 * Final Stipend - paid to mentees upon successful project completion as evaluated by mentors and confirmed by program staff.
 
-Additionally, a limited travel fund is set aside to 5 exceptional mentors and mentees who demonstrate the need for financial support to travel to an in-person event where they're presenting about their mentorship projects.  
+Additionally, a limited travel fund is set aside to be awarded to up to 5 exceptional mentors and mentees who demonstrate the financial need to travel to an in-person event where they're presenting about their mentorship projects.  
 
 # Questions?
 
