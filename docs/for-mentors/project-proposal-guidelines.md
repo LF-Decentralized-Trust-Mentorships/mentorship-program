@@ -13,8 +13,7 @@ Proposal Submission Guidelines
 *   Mentors need to be knowledgeable about the scope, goals, and technical aspects of the project and will directly guide, supervise, and evaluate the mentee's work for the duration of the mentorship.
 *   The mentorship project needs to be scoped with clear objectives and outcomes, serving as a springboard to onboard a new contributor into the community.
 *   The outcome envisioned for the project can be accomplished under the mentor's guidance by new contributors working ~15 hours a week for ~ 6 months.
-*   The project should be related to one of the current LF Decentralized Trust Projects or Labs or the community or ecosystem at large.
-*   The outcome of the project will benefit the existing LF Decentralized Projects or Labs or advance the open source community's work at large.
+*   The project should be relevant to advance one of the current LF Decentralized Trust Projects or Labs.
 
 Proposal Selection Process and Criteria
 --------------------------
