@@ -19,11 +19,11 @@ Proposal Submission Guidelines
 Proposal Selection Process and Criteria
 --------------------------
 
-*   A mentorship program task force appointed by the LF Decentralized Trust Technical Advisory Council will review, evluate, and select proposals to ensure the selected mentorship projects will benefit the LF Decentralized Trust projects, labs, or community.
+*   A mentorship program task force appointed by the LF Decentralized Trust Technical Advisory Council will review and evaluate proposals to ensure the selected mentorship projects will benefit the LF Decentralized Trust projects or labs.
 *   General selection criteria are:
     *   The selected proposals have well defined learning objectives and outcomes that could serve as a springboard to onboard new contributors.
     *   The selected proposals can be accomplished, under the guidance of the mentors, by a new developer, researcher, or contributor within established program dates.
-    *   The selected proposals should have a direct connection or relevance to an existing LF Decentralize Trust Project or Lab or other emerging tech within the LF Decentralized Trust umbrella or community.
-    *   The selected proposals will further increase the contributor or maintainer base of the related LF Decentralized Trust Project or Lab or community.
+    *   The selected proposals should have a direct connection or relevance to the goals of an existing LF Decentralized Trust Project or Lab.
+    *   The selected proposals will further increase the contributor or maintainer base of the related LF Decentralized Trust Project or Lab.
     *   The selected proposals have the potential to positively impact the diverse representation of the projects, mentors, and mentees within the LF Decentralized Trust community.
-*   Multiple proposals can be accepted for Projects that complete the annual review process as Graduated and only one accepted proposal for any other Project, Labs, or community groups with any exceptions determined by the TAC mentorship program task force.
+*   Multiple proposals can be accepted for Projects that complete the annual review process, although we reserve the right to limit the number of mentorships per project to allow for including a wider range of projects and labs in the program.
