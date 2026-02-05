@@ -12,8 +12,8 @@ Proposal Submission Guidelines
 *   Multiple mentors per project is more desirable as this helps spread the mentoring workload and reduce the challenge of coverage due to working remotely with mentees from a different time zone.
 *   Mentors need to be knowledgeable about the scope, goals, and technical aspects of the project and will directly guide, supervise, and evaluate the mentee's work for the duration of the mentorship.
 *   The mentorship project needs to be scoped with clear objectives and outcomes, serving as a springboard to onboard a new contributor into the community.
-*   The outcome envisioned for the project can be accomplished under the mentor's guidance by new contributors working ~15 hours a week for ~ 6 months.
-*   The project should contribute to advancing one of the current LF Decentralized Trust Projects or Labs.
+*   The outcome envisioned for the mentorship project can be accomplished under the mentor's guidance by new contributors working ~15 hours a week for ~ 6 months.
+*   The menetorship project should contribute to advancing one of the current LF Decentralized Trust Projects or Labs.
 
 Proposal Selection Process and Criteria
 --------------------------
