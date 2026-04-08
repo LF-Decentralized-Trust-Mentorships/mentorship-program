@@ -83,6 +83,7 @@ extra:
 nav:
   - Introduction: index.md
   - Projects by year:
+    - 2026: projects/2026.md
     - 2025: projects/2025.md
   - For Mentees:
     - For Mentee Applicants: for-mentees/for-mentee-applicants.md
