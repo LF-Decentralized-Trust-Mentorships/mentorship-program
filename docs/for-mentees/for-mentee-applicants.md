@@ -14,13 +14,13 @@ Step 1: review eligibility
 Step 2: discover projects
 -------------------------
 
-*   Take a look at the list of [mentorship projects that are accepting mentee applications on LFX in 2025](https://lf-decentralized-trust-mentorships.github.io/mentorship-program/latest/projects/2025/), carefully review additional details of the corresponding mentorship projects on GitHub, so as to identify which project(s) you're interested in.
+*   Take a look at the list of [mentorship projects that are accepting mentee applications on LFX in 2026](https://lf-decentralized-trust-mentorships.github.io/mentorship-program/latest/projects/2026/), carefully review additional details of the corresponding mentorship projects on GitHub, so as to identify which project(s) you're interested in.
 
 *   Ask yourself which projects you are the most excited or curious about exploring? The project descriptions, learning objectives and outcomes, and any additional information or links on the project page may give you some insight. 
     
 *   Ask yourself which projects are a better fit for your profile and align with your strength. Be sure to read about the educational level and skills required or desired to evaluate if you are qualified.
     
-*   Lastly, we expect mentees to be able to contribute ~15 hours a week on a consistent basis from June to November. Please make sure the [program dates](https://lf-decentralized-trust-mentorships.github.io/mentorship-program/main/#2025-program-dates) will fit into your schedule taking into consideration your other academic, professional, or personal commitments.
+*   Lastly, we expect mentees to be able to contribute ~15 hours a week on a consistent basis from June to November. Please make sure the [program dates](https://lf-decentralized-trust-mentorships.github.io/mentorship-program/latest/#2026-program-dates) will fit into your schedule taking into consideration your other academic, professional, or personal commitments.
     
 _Note: Each applicant may apply for multiple but no more than **THREE** projects. We recommend that you focus your effort on 2 projects and submit a quality application for those two projects._   
     
@@ -31,7 +31,7 @@ We encourage you to contact the LF Decentralized Trust staff, the mentors and co
 
 *   If your questions are about the program in general or the application process please contact [mentorship@lfdecentralizedtrust.org](mailto:mentorship@lfdecentralizedtrust.org)
     
-*   If you would like to clarify any technical aspects, please join our [Discord](https://discord.com/invite/hyperledger) and ask your questions on the corresponding project or community's public channels. Public discussions benefit all who may be interested in the project and it helps efficiently address the same or similar questions many others may have. This is the open source way that we encourage applicants to adhere to. 
+*   If you would like to clarify any technical aspects, please join our [Discord](https://discord.lfdecentralizedtrust.org/) and ask your questions on the corresponding project or community's public channels. Public discussions benefit all who may be interested in the project and it helps efficiently address the same or similar questions many others may have. This is the open source way that we encourage applicants to adhere to. 
     
 *   Please be thoughtful with how you ask your questions and be respectful of the time it may take for the maintainers to respond to your questions. 
     
