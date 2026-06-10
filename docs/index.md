@@ -64,7 +64,7 @@ Eligible mentees may receive a stipend, calculated using a [tiered structured](h
 
 Please note that any mentorships that are labeled "Unpaid" will not be eligible to receive a stipend.
 
-Additionally, a limited travel fund is set aside to be awarded to up to 5 exceptional mentors and mentees who demonstrate the financial need to travel to an in-person event where they're presenting about their mentorship projects afterthe completion of the program. 
+Additionally, a limited travel fund is set aside to be awarded to up to 5 exceptional mentors and mentees who demonstrate the financial need to travel to an in-person event where they're presenting about their mentorship projects after the completion of the program. 
 
 # Questions?
 
