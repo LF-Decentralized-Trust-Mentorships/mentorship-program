@@ -49,8 +49,8 @@ The LF Decentralized Trust Mentorship Program provides a structured remote learn
     
 *   __08 June 2026 - 15 Jun 2026__ mentorship onboarding session Fri, June 12 at 14:00 UTC, and mentee and mentor bonding and onboarding
 *   __15 Jun 2026 - 30 Nov 2026__ mentee/mentor working period (mentees are expected to commit ~12-15 hours a week on a consistent basis during this time) 
-*   __24 Aug 2026 - 31 Aug 2026__ midterm mentee evaluation and report
-*   __15 Nov 2026 - 30 Nov 2026__  final mentee evaluation and report
+*   __24 Aug 2026 - 31 Aug 2026__ midterm deliverables and report from mentee submitted to mentors; midterm mentee evaluation by mentors
+*   __15 Nov 2026 - 30 Nov 2026__  final deliverables and report from mentee submitted to mentors; final mentee evaluation by mentors and staff
 
 _Note: The program dates are subject to change._
 
